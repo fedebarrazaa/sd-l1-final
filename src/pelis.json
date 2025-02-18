@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "id": 2,
+        "tittle": "American Captain",
+        "tags": ["Action", "Suspense", "Fantasy"]
+    },
+
+    {
+        "id": 1,
+        "tittle": "Fast and Furious: 1",
+        "tags": ["Action", "Fantasy"]
+    },
+
+    {
+        "id": 3,
+        "tittle": "The Cojuring",
+        "tags": ["Terror", "Fantasy", "Suspense"]
+    },
+
+    {
+        "id": 4,
+        "tittle": "Iron Man",
+        "tags":["Action", "Fantasy", "Suspense"]
+    },
+
+    {
+        "id":5,
+        "tittle": "Harry Potter and the Azkaban Prisioner",
+        "tags": ["Fantasy", "Adventure", "Action"]
+    }
+]
